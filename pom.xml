@@ -50,6 +50,11 @@
          <version>3.7.0</version>
          <scope>test</scope>
       </dependency>
+       <dependency>
+           <groupId>br.ufop.decom.bcc328</groupId>
+           <artifactId>straightline</artifactId>
+           <version>0.1-SNAPSHOT</version>
+       </dependency>
    </dependencies>
 
 </project>
